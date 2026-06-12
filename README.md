@@ -42,7 +42,7 @@ The project uses:
 
 ## Results
 
-The strongest models achieved cross-validated ROC-AUC scores above 0.84. Predictive performance improved through target refinement, lag construction, rolling features, and market-specific feature engineering.
+The random forest achieved the strongest cross-validated performance, with a mean CV ROC-AUC of 0.7664. On the held-out chronological test set, the winning model achieved 67.5% accuracy and a test AUC of 0.7367. Predictive performance improved through target refinement, lag construction, rolling features, and market-specific feature engineering.
 
 ## Key Takeaway
 

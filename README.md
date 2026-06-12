@@ -57,7 +57,7 @@ src/
 docs/
   gb_electricity_imbalance_forecasting_paper.pdf
 
-outputs/figures/
+notebooks/outputs/figures/
   Model performance figures and visualizations
 ```
 
@@ -65,15 +65,24 @@ outputs/figures/
 
 ### Model Comparison
 
-![Cross-Validated Model Comparison](outputs/figures/cv_model_comparison.png)
+![Cross-Validated Model Comparison](notebooks/outputs/figures/cv_model_comparison.png)
 
 ### Winning Model ROC Curve
 
-![Winning Model ROC Curve](outputs/figures/winning_model_roc_curve.png)
+![Winning Model ROC Curve](notebooks/outputs/figures/winning_model_roc_curve.png)
 
 ### Variable Importance
 
-![Random Forest Variable Importance](outputs/figures/random_forest_variable_importance.png)
+![Random Forest Variable Importance](notebooks/outputs/figures/random_forest_variable_importance.png)
+
+### Confusion Matrix
+
+![Winning Model Confusion Matrix](notebooks/outputs/figures/winning_model_confusion_matrix.png)
+
+### Distribution of One-Hour-Ahead Net Imbalance Volume
+
+![NIV Distribution](notebooks/outputs/figures/niv_tplus2_distribution.png)
+
 
 ## Tools Used
 

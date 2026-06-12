@@ -1,0 +1,14 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+data/raw/
+data/processed/
+
+*.csv
+*.zip
+*.xlsx
+
+.DS_Store
+Thumbs.db

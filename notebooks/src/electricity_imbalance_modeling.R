@@ -54,7 +54,7 @@ library(knitr)
 
 set.seed(123)
 
-data_dir <- "C:/Users/Tswid/OneDrive/Desktop/SPRING2026DATA/Classification Data"
+data_dir <- "data/raw"
 processed_dir <- "data/processed"
 table_dir <- "outputs/tables"
 figure_dir <- "outputs/figures"

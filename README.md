@@ -100,5 +100,3 @@ notebooks/outputs/figures/
 ## Author
 
 Thomas Swide
-MA Candidate, Political Economy with Data Analytics
-Tulane University
